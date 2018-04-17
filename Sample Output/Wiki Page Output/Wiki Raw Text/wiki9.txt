@@ -1,0 +1,64 @@
+Aluminium chloride (AlCl3) is the main compound of aluminium and chlorine. It is white, but samples are often contaminated with iron(III) chloride, giving it a yellow colour. The solid has a low melting and boiling point. It is mainly produced and consumed in the production of aluminium metal, but large amounts are also used in other areas of chemical industry. The compound is often cited as a Lewis acid. It is an example of an inorganic compound that "cracks" at mild temperature, reversibly changing from a polymer to a monomer.
+
+Anhydrous
+AlCl3 adopts three different structures, depending on the temperature and the state (solid, liquid, gas). Solid AlCl3 is a sheet-like layered cubic close packed layers. In this framework, the Al centres exhibit octahedral coordination geometry.[7] In the melt, aluminium trichloride exists as the dimer Al2Cl6, with tetracoordinate aluminium. This change in structure is related to the lower density of the liquid phase (1.78 g/cm3) vs solid aluminium trichloride (2.48 g/cm3). Al2Cl6 dimers are also found in the vapour phase. At higher temperatures, the Al2Cl6 dimers dissociate into trigonal planar AlCl3, which is structurally analogous to BF3. The melt conducts electricity poorly,[8] unlike more ionic halides such as sodium chloride.
+
+Hexahydrate
+The hexahydrate consists of octahedral [Al(H2O)6]3+ centers and chloride counterions. Hydrogen bonds link the cation and anions.[9] The hydrated form of aluminium chloride has an octahedral molecular geometry, with the central aluminum ion surrounded by six water ligand molecules. This means that the hydrated form cannot act as a Lewis acid since it cannot accept electron pairs, and thus this cannot be used as a catalyst in Friedel-Crafts alkylation of aromatic compounds.
+
+Reactions
+Anhydrous aluminium chloride is a powerful Lewis acid, capable of forming Lewis acid-base adducts with even weak Lewis bases such as benzophenone and mesitylene.[10] It forms tetrachloroaluminate AlCl4- in the presence of chloride ions.
+
+Aluminium chloride reacts with calcium and magnesium hydrides in tetrahydrofuran forming tetrahydroaluminates.
+
+Reactions with water
+Aluminium chloride is hygroscopic, having a very pronounced affinity for water. It fumes in moist air and hisses when mixed with liquid water as the Cl- ions are displaced with H2O molecules in the lattice to form the hexahydrate [Al(H2O)6]Cl3 (also white to yellowish in color). The anhydrous phase cannot be regained on heating as HCl is lost leaving aluminium hydroxide or alumina (aluminium oxide):
+
+
+On strong heating (~400°C), aluminium oxide is formed from the aluminium hydroxide via:
+
+Aqueous solutions of AlCl3 are ionic and thus conduct electricity well. Such solutions are found to be acidic, indicative of partial hydrolysis of the Al3+ ion. The reactions can be described (simplified) as:
+
+
+Aqueous solutions behave similarly to other aluminium salts containing hydrated Al3+ ions, giving a gelatinous precipitate of aluminium hydroxide upon reaction with dilute sodium hydroxide:
+
+
+Synthesis
+Aluminium chloride is manufactured on a large scale by the exothermic reaction of aluminium metal with chlorine or hydrogen chloride at temperatures between 650 to 750 °C (1,202 to 1,382 °F).[8]
+
+Aluminum chloride may be formed via a single displacement reaction between copper chloride and aluminum metal.
+
+
+In the US in 1993, approximately 21,000 tons were produced, not counting the amounts consumed in the production of aluminium.[11]
+
+Hydrated aluminium trichloride is prepared by dissolving aluminium oxides in hydrochloric acid. Metallic aluminum also readily dissolves in hydrochloric acid - releasing hydrogen gas and generating considerable heat. Heating this solid does not produce anhydrous aluminium trichloride, the hexahydrate decomposes to aluminium hydroxide when heated:
+
+
+Aluminium also forms a lower chloride, aluminium(I) chloride (AlCl), but this is very unstable and only known in the vapour phase.[8]
+
+Anhydrous aluminium trichloride
+AlCl3 is probably the most commonly used Lewis acid and also one of the most powerful. It finds application in the chemical industry as a catalyst for Friedel–Crafts reactions, both acylations and alkylations. Important products are detergents and ethylbenzene. It also finds use in polymerization and isomerization reactions of hydrocarbons.
+
+The Friedel–Crafts reaction[10] is the major use for aluminium chloride, for example in the preparation of anthraquinone (for the dyestuffs industry) from benzene and phosgene.[8] In the general Friedel–Crafts reaction, an acyl chloride or alkyl halide reacts with an aromatic system as shown:[10]
+
+Benzene Friedel-Crafts alkylation-diagram.svg
+The alkylation reaction is more widely used than the acylation reaction, although its practice is more technically demanding because the reaction is more sluggish. For both reactions, the aluminium chloride, as well as other materials and the equipment, should be dry, although a trace of moisture is necessary for the reaction to proceed.[citation needed] A general problem with the Friedel–Crafts reaction is that the aluminium chloride catalyst sometimes is required in full stoichiometric quantities, because it complexes strongly with the products. This complication sometimes generates a large amount of corrosive waste. For these and similar reasons, more recyclable or environmentally benign catalysts have been sought. Thus, the use of aluminium trichloride in some applications is being displaced by zeolites.
+
+Aluminium chloride can also be used to introduce aldehyde groups onto aromatic rings, for example via the Gattermann-Koch reaction which uses carbon monoxide, hydrogen chloride and a copper(I) chloride co-catalyst.[12]
+
+
+Aluminium chloride finds a wide variety of other applications in organic chemistry.[13] For example, it can catalyse the "ene reaction", such as the addition of 3-buten-2-one (methyl vinyl ketone) to carvone:[14]
+
+
+AlCl3 is also widely used for polymerization and isomerization reactions of hydrocarbons. Important examples include the manufacture of ethylbenzene, which used to make styrene and thus polystyrene, and also production of dodecylbenzene, which is used for making detergents.[8]
+
+Aluminium chloride combined with aluminium in the presence of an arene can be used to synthesize bis(arene) metal complexes, e.g. bis(benzene)chromium, from certain metal halides via the so-called Fischer-Hafner synthesis.
+
+Hydrated aluminium chlorides
+The hexahydrate has few applications, but aluminium chlorohydrate is a common component in antiperspirants at low concentrations.[11] Hyperhidrosis sufferers need a much higher concentration (12% or higher), sold under such brand names as Xeransis, Drysol, DryDerm, sunsola, Maxim, Odaban, CertainDri, B+Drier, Chlorhydrol, Anhydrol Forte and Driclor.
+
+Symmetry and dipole moment
+Aluminium chloride belongs to the point group D3h in its monomeric form and D2h in its dimeric form. Both forms of aluminium chloride, however, do not possess a dipole moment because the bond dipole moments cancel each other out.
+
+Safety
+Aluminum chloride is a neurotoxin.[15][16][17][18] Anhydrous AlCl3 reacts vigorously with bases, so suitable precautions are required. It can cause irritation to the eyes, skin, and the respiratory system if inhaled or on contact.[19]

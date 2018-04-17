@@ -1,0 +1,100 @@
+Hydrazine is an inorganic compound with the chemical formula N
+2H
+4 (also written H
+2NNH
+2). A simple pnictogen hydride, it is a colorless flammable liquid with an ammonia-like odor. Hydrazine is highly toxic and dangerously unstable unless handled in solution. As of 2000, approximately 120,000 tons of hydrazine hydrate (corresponding to a 64% solution of hydrazine in water by weight) were manufactured worldwide per year.[9] Hydrazine is mainly used as a foaming agent in preparing polymer foams, but significant applications also include its uses as a precursor to polymerization catalysts and pharmaceuticals. Additionally, hydrazine is used in various rocket fuels and to prepare the gas precursors used in air bags. Hydrazine is used within both nuclear and conventional electrical power plant steam cycles as an oxygen scavenger to control concentrations of dissolved oxygen in an effort to reduce corrosion. Anhydrous hydrazine is corrosive towards glass, in a manner similar to hydrofluoric acid.
+
+Each H2N-N subunit is pyramidal in shape. The N-N single bond distance is 1.45 Å (145 pm), and the molecule adopts a gauche conformation.[10] The rotational barrier is twice that of ethane. These structural properties resemble those of gaseous hydrogen peroxide, which adopts a "skewed" anticlinal conformation, and also experiences a strong rotational barrier.
+
+
+Different routes have been developed over the years:[9] the key step is the creation of the nitrogen-nitrogen single bond. In the Olin Raschig process, chlorine-based oxidants oxidize ammonia without the presence of ketone. In the peroxide process, hydrogen peroxide oxidizes ammonia in the presence of ketone. Instead of carbon-nitrogen double bond in imine, urea provides amine groups bonded to carbonyl for oxidation.
+
+Hydrazine is produced in the Olin Raschig process from sodium hypochlorite (the active ingredient in many bleaches) and ammonia, a process announced in 1907. This method relies on the reaction of chloramine with ammonia to create the nitrogen-nitrogen single bond as well as a hydrogen chloride byproduct:[11]
+
+
+
+Related to the Raschig process, urea can be oxidized instead of ammonia. Again sodium hypochlorite serves as the oxidant. The net reaction is shown:[12]
+
+The process generates significant byproducts and is mainly practiced in Asia.[9]
+
+
+The Bayer Ketazine Process is the predecessor to the peroxide process. It employs sodium hypochlorite as oxidant instead of hydrogen peroxide. Like all hypochlorite-based routes, this method suffers from the fact that it produces an equivalent of salt for each equivalent of hydrazine.[9]
+
+
+Hydrazine can be synthesized from ammonia and hydrogen peroxide in the peroxide process (sometimes called Pechiney-Ugine-Kuhlmann process, the Atofina–PCUK cycle, or ketazine process).[9] The net reaction follows:[13]
+
+
+In this route, hydrazine is produced in several steps from ammonia, hydrogen peroxide, and a ketone such as acetone or methylethyl ketone. The ketone and ammonia first condense to give the imine, which is oxidised by hydrogen peroxide to the oxaziridine, a three-membered ring containing carbon, oxygen, and nitrogen. Next, the oxaziridine gives the hydrazone by treatment with ammonia, which process creates the nitrogen-nitrogen single bond. This hydrazone condenses with one more equivalent of ketone; the resulting azine is hydrolyzed to give hydrazine and regenerate the ketone. Unlike the Olin Raschig Process, this approach does not produce a salt as a by-product.[14]
+
+
+The majority use of hydrazine is as a precursor to blowing agents. Specific compounds include azodicarbonamide and azobisisobutyronitrile, which yield 100-200 mL of gas per gram of precursor. In a related application, sodium azide, the gas-forming agent in air bags, is produced from hydrazine by reaction with sodium nitrite.[9]
+
+Hydrazine is also used as a propellant on board space vehicles, and to both reduce the concentration of dissolved oxygen in and control pH of water used in large industrial boilers. The F-16 fighter jet and U-2 Spy Plane use hydrazine to fuel their emergency power units.[15]
+
+
+
+Fluconazole, synthesized using hydrazine, is an antifungal medication.
+Hydrazine is a precursor to several pharmaceuticals and pesticides. Often these applications involve conversion of hydrazine to heterocyclic rings such as pyrazoles and pyridazines. Examples of commercialized bioactive hydrazine derivatives include cefazolin, rizatriptan, anastrozole, fluconazole, metazachlor, metamitron, metribuzin, paclobutrazol, diclobutrazole, propiconazole, and triadimefon.[9]
+
+
+Anhydrous hydrazine being loaded into the MESSENGER space probe. The technician is wearing a safety suit.
+Hydrazine was first used during World War II as a component in rocket fuel mixtures. A 30% mix by weight with 57% methanol (M-Stoff in German) and 13% water was called C-Stoff by the Germans.[16] The mixture was used to power the Messerschmitt Me 163B rocket-powered fighter plane. Hydrazine was also used as a propellant with the German high test peroxide T-Stoff oxidizer. Unmixed hydrazine was referred to as B-Stoff by the Germans, a designation also used later for the methanol/water fuel for the V-2 missile.
+
+Hydrazine is used as a low-power monopropellant for the maneuvering thrusters of spacecraft, and was used to power the Space Shuttle's auxiliary power units (APUs). In addition, monopropellant hydrazine-fueled rocket engines are often used in terminal descent of spacecraft. Such engines were used on the Viking program landers in the 1970s as well as the Phoenix lander and Curiosity rover which landed on Mars in May 2008 and August 2012, respectively.
+
+In all hydrazine monopropellant engines, the hydrazine is passed by a catalyst such as iridium metal supported by high-surface-area alumina (aluminium oxide) or carbon nanofibers,[17] or more recently molybdenum nitride on alumina,[18] which causes it to decompose into ammonia, nitrogen gas, and hydrogen gas according to the following reactions:[19]
+
+Reactions 1 and 2 are extremely exothermic (the catalyst chamber can reach 800 °C in a matter of milliseconds,[17]) and they produce large volumes of hot gas from a small volume of liquid,[18] making hydrazine a fairly efficient thruster propellant with a vacuum specific impulse of about 220 seconds.[20] Reaction 3 is endothermic and so reduces the temperature of the products, but also produces a greater number of molecules. The catalyst structure affects the proportion of the NH3 that is dissociated in Reaction 3; a higher temperature is desirable for rocket thrusters, while more molecules are desirable when the reactions are intended to produce greater quantities of gas[citation needed].
+
+Other variants of hydrazine that are used as rocket fuel are monomethylhydrazine, (CH3)NH(NH2) (also known as MMH), and unsymmetrical dimethylhydrazine, (CH3)2N(NH2) (also known as UDMH). These derivatives are used in two-component rocket fuels, often together with dinitrogen tetroxide, N2O4. These reactions are extremely exothermic, and the burning is also hypergolic (it starts burning without any external ignition).[21]
+
+There are ongoing efforts in the aerospace industry to replace hydrazine and other highly toxic substances. Promising alternatives include hydroxylammonium nitrate, 2-Dimethylaminoethylazide (DMAZ)[22] and energetic ionic liquids.[23]
+
+The Italian catalyst manufacturer Acta has proposed using hydrazine as an alternative to hydrogen in fuel cells. The chief benefit of using hydrazine is that it can produce over 200 mW/cm2 more than a similar hydrogen cell without the need to use expensive platinum catalysts.[24] As the fuel is liquid at room temperature, it can be handled and stored more easily than hydrogen. By storing the hydrazine in a tank full of a double-bonded carbon-oxygen carbonyl, the fuel reacts and forms a safe solid called hydrazone. By then flushing the tank with warm water, the liquid hydrazine hydrate is released. Hydrazine has a higher electromotive force of 1.56 V compared to 1.23 V for hydrogen. Hydrazine breaks down in the cell to form nitrogen and hydrogen which bonds with oxygen, releasing water.[24] Hydrazine was used in fuel cells manufactured by Allis-Chalmers Corp., including some that provided electric power in space satellites in the 1960s.
+
+A mixture of 63% hydrazine, 32% hydrazine nitrate and 5% water is a standard propellant for experimental bulk-loaded liquid propellant artillery. The propellant mixture above is one of the most predictable and stable, with a flat pressure profile during firing. Misfires are usually caused by inadequate ignition. The movement of the shell after a misignition causes a large bubble with a larger ignition surface area, and the greater rate of gas production causes very high pressure, sometimes including catastrophic tube failures (i.e. explosions).[25]
+
+
+Hydrazine forms a monohydrate that is more dense (1.032 g/cm3) than the anhydrous material. Hydrazine has basic (alkali) chemical properties comparable to those of ammonia. It is difficult to diprotonate:[26]
+
+
+The heat of combustion of hydrazine in oxygen (air) is 1.941 x 107 J/kg (8345 BTU/lb).[28]
+
+Hydrazine is a convenient reductant because the by-products are typically nitrogen gas and water. Thus, it is used as an antioxidant, an oxygen scavenger, and a corrosion inhibitor in water boilers and heating systems. It is also used to reduce metal salts and oxides to the pure metals in electroless nickel plating and plutonium extraction from nuclear reactor waste. Some colour photographic processes also use a weak solution of hydrazine as a stabilizing wash, as it scavenges dye coupler and unreacted silver halides. Hydrazine is the most common and effective reducing agent used to convert graphene oxide (GO) to reduced graphene oxide (rGO) via hydrothermal treatment.[29]
+
+
+Hydrazine can be monoprotonated to form various solid salts of the hydrazinium cation (N2H5+) by treatment with mineral acids. A common salt is hydrazinium sulfate, [N2H5]HSO4, also called hydrazine sulfate.[30] Hydrazine sulfate was investigated as a treatment of cancer-induced cachexia, but proved ineffective.[31]
+
+Double protonation gives the azaniumylazanium (hydrazinediium) dication (H3NNH32+), of which various salts are known.[32]
+
+
+Hydrazines are part of many organic syntheses, often those of practical significance in pharmaceuticals (see applications section), as well as in textile dyes and in photography.[9]
+
+Illustrative of the condensation of hydrazine with a simple carbonyl is its reaction with propanone to give the diisopropylidene hydrazine (acetone azine). The latter reacts further with hydrazine to yield the hydrazone:[33]
+
+
+The propanone azine is an intermediate in the Atofina-PCUK process. Direct alkylation of hydrazines with alkyl halides in the presence of base yields alkyl-substituted hydrazines, but the reaction is typically inefficient due to poor control on level of substitution (same as in ordinary amines). The reduction of hydrazones to hydrazines present a clean way to produce 1,1-dialkylated hydrazines.
+
+In a related reaction, 2-cyanopyridines react with hydrazine to form amide hydrazides, which can be converted using 1,2-diketones into triazines.
+
+
+Hydrazine is used in the Wolff-Kishner reduction, a reaction that transforms the carbonyl group of a ketone into a methylene bridge (or an aldehyde into a methyl group) via a hydrazone intermediate. The production of the highly stable dinitrogen from the hydrazine derivative helps to drive the reaction.
+
+
+Being bifunctional, with two amines, hydrazine is a key building block for the preparation of many heterocyclic compounds via condensation with a range of difunctional electrophiles. With 2,4-pentanedione, it condenses to give the 3,5-dimethylpyrazole.[34] In the Einhorn-Brunner reaction hydrazines react with imides to give triazoles.
+
+
+Being a good nucleophile, N2H4 can attack sulfonyl halides and acyl halides.[35] The tosylhydrazine also forms hydrazones upon treatment with carbonyls.
+it]
+Hydrazine is used to cleave N-alkylated phthalimide derivatives. This scission reaction allows phthalimide anion to be used as amine precursor in the Gabriel synthesis.[36]
+
+Hydrazine is the intermediate in the anaerobic oxidation of ammonia (anammox) process.[37] It is produced by some yeasts and the open ocean bacterium anammox (Brocadia anammoxidans).[38] The false morel produces the poison gyromitrin which is an organic derivative of hydrazine that is converted to monomethylhydrazine by metabolic processes. Even the most popular edible "button" mushroom Agaricus bisporus produces organic hydrazine derivatives, including agaritine, a hydrazine derivative of an amino acid, and gyromitrin.[39][40]
+
+Hydrazine is highly toxic and dangerously unstable in the anhydrous form. According to the U.S. Environmental Protection Agency:
+
+Symptoms of acute (short-term) exposure to high levels of hydrazine may include irritation of the eyes, nose, and throat, dizziness, headache, nausea, pulmonary edema, seizures, coma in humans. Acute exposure can also damage the liver, kidneys, and central nervous system. The liquid is corrosive and may produce dermatitis from skin contact in humans and animals. Effects to the lungs, liver, spleen, and thyroid have been reported in animals chronically exposed to hydrazine via inhalation. Increased incidences of lung, nasal cavity, and liver tumors have been observed in rodents exposed to hydrazine.[41]
+
+Limit tests for hydrazine in pharmaceuticals suggest that it should be in the low ppm range.[42] Hydrazine may also cause steatosis.[43] At least one human is known to have died after 6 months of sublethal exposure to hydrazine hydrate.[44] The U.S. National Institute for Occupational Safety and Health has prepared a Skin Notation Profile evaluating and summarizing the literature regarding the hazard potential of hydrazine,[45] and has developed criteria for a recommended standard for occupational exposure.[46]
+
+
+The name "hydrazine" was coined by Emil Fischer in 1875; he was trying to produce organic compounds that consisted of mono-substituted hydrazine.[47] By 1887, Theodor Curtius had produced hydrazine sulfate by treating organic diazides with dilute sulfuric acid; however, he was unable to obtain pure hydrazine, despite repeated efforts.[48] Pure anhydrous hydrazine was first prepared by the Dutch chemist Lobry de Bruyn in 1895.[49]

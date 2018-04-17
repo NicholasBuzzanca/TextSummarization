@@ -1,0 +1,31 @@
+Hydrogen bromide is the diatomic molecule with the formula HBr. It is a colorless compound and a hydrogen halide. Hydrobromic acid is a solution of HBr in water. Both the anhydrous and aqueous solutions of HBr are common reagents in the preparation of bromide compounds.
+
+HBr is very soluble in water, forming hydrobromic acid solution, which is saturated at 68.85% HBr by weight at room temperature. Aqueous solutions that are 47.6% HBr by weight form a constant-boiling azeotrope mixture that boils at 124.3 °C. Boiling less concentrated solutions releases H2O until the constant boiling mixture composition is reached.
+Hydrogen bromide and hydrobromic acid are important reagents in the production of inorganic and organic bromine compounds.[8] The free-radical addition of HBr to alkenes gives alkyl bromides:
+
+These alkylating agents are precursors to fatty amine derivatives. Similar free radical addition to allyl chloride and styrene gives 1-bromo-3-chloropropane and phenylethylbromide, respectively.
+
+Hydrogen bromide reacts with dichloromethane to give bromochloromethane and dibromomethane, sequentially:
+
+Allyl bromide is prepared by treating allyl alcohol with HBr.
+
+Other reactions
+Although not widely used industrially, HBr adds to alkenes to give bromoalkanes, an important family of organobromine compounds. Similarly, HBr adds to haloalkene to form a geminal dihaloalkane. (This type of addition follows Markovnikov's rule):
+
+HBr also adds to alkynes to yield bromoalkenes. The stereochemistry of this type of addition is usually anti:
+
+Also, HBr is used to open epoxides and lactones and in the synthesis of bromoacetals. Additionally, HBr catalyzes many organic reactions.[9][10][11][12]
+
+Potential applications
+HBr has been proposed for use in a utility-scale flow-type battery.[13]
+
+Industrial preparation
+Hydrogen bromide (along with hydrobromic acid) is produced by combining hydrogen and bromine at temperatures between 200-400 °C. The reaction is typically catalyzed by platinum or asbestos.[10][14]
+
+Laboratory synthesis
+HBr can be synthesized by a variety of methods. It may be prepared in the laboratory by distillation of a solution of sodium bromide or potassium bromide with phosphoric acid or sulfuric acid:[15]
+
+
+Anhydrous hydrogen bromide can also be produced on a small scale by thermolysis of triphenylphosphonium bromide in refluxing xylene.[9]
+
+Hydrogen bromide prepared by the above methods can be contaminated with Br2, which can be removed by passing the gas through a solution of phenol at room temperature in tetrachloromethane or other suitable solvent (producing 2,4,6-Tribromophenol and generating more HBr in the process) or through copper turnings or copper gauze at high temperature.[14]

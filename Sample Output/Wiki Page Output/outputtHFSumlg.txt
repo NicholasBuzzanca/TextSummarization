@@ -1,0 +1,34 @@
+Hydrogen fluoride is a chemical compound with the chemical formula HF.
+HF is widely used in the petrochemical industry as a component of superacids.
+Hydrogen fluoride boils near room temperature, much higher than other hydrogen halides.
+Unlike other hydrogen halides, HF is lighter than air.
+The gas can also cause blindness by rapid destruction of the corneas.
+French chemist Edmond Frémy (1814–1894) is credited with discovering anhydrous hydrogen fluoride while trying to isolate fluorine.
+Although Carl Wilhelm Scheele prepared hydrofluoric acid in large quantities in 1771, this acid was known in the glass industry before then.
+Although a diatomic molecule, HF forms relatively strong intermolecular hydrogen bonds.
+Acidity Unlike other hydrohalic acids, such as hydrochloric acid, hydrogen fluoride is only a weak acid in dilute aqueous solution.
+[13] This leads to protonation of very strong acids like hydrochloric, sulfuric, or nitric when using concentrated hydrofluoric acid solutions.
+[14] Although hydrofluoric acid is regarded as a weak acid, it is very corrosive, even attacking glass when hydrated.
+[19] However, Giguère and Turrell[20][21] have shown by infrared spectroscopy that the predominant solute species is the 
+hydrogen-bonded ion pair [H3O+·F-], 
+which suggests that the ionization can be described as a pair of successive equilibria:  The first equilibrium lies well to the 
+right (K » 1) and the second to the left (K « 1),
+ meaning that HF is extensively dissociated, but that the tight ion pairs reduce the thermodynamic activity coefficient of H3O+, 
+so that the solution is effectively less acidic.
+[17][18]  Solvent Dry hydrogen fluoride readily dissolves low-valent metal fluorides as well as several molecular fluorides.
+Many proteins and carbohydrates can be dissolved in dry HF and recovered from it.
+[25]  Production and uses Hydrogen fluoride is produced by the action of sulfuric acid on pure grades of the mineral fluorite and also 
+as a side-product of the extraction of the 
+fertilizer precursor phosphoric acid from various minerals.
+See also hydrofluoric acid.
+HF serves as a catalyst in alkylation processes in oil refineries.
+A component of high-octane petrol (gasoline) called "alkylate" is generated in alkylation units that combine C3 and C4 olefins and
+ iso-butane to generate petrol (gasoline).
+The process involves dehydrogenation of n-paraffins to olefins, and subsequent reaction with benzene using HF as catalyst.
+The potassium bifluoride is needed because anhydrous hydrogen fluoride does not conduct electricity.
+Several million kilograms of F2 are produced annually.
+[28]  Acyl chlorides or acid anhydrides react with hydrogen fluoride to give acyl fluorides.
+[29]  HF is often used in palynology to remove silicate minerals, for extraction of dinoflagellate cysts, acritarchs and chitinozoans.
+1,1-Difluoroethane is produced by the mercury-catalyzed addition of hydrogen fluoride to acetylene:[30]  The intermediate in this 
+process is vinyl fluoride or fluoroethylene, 
+the monomeric precursor to polyvinyl fluoride.

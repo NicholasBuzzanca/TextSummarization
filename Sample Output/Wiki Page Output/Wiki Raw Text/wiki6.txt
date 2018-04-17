@@ -1,0 +1,203 @@
+Acetic acid /?'si?t?k/, systematically named ethanoic acid /????'no??k/, is a colourless liquid organic compound with the chemical formula CH3COOH (also written as CH3CO2H or C2H4O2). When undiluted, it is sometimes called glacial acetic acid. Vinegar is roughly 3–9% acetic acid by volume, making acetic acid the main component of vinegar apart from water. Acetic acid has a distinctive sour taste and pungent smell. In addition to household vinegar, it is mainly produced as a precursor to polyvinyl acetate and cellulose acetate. It is classified as a weak acid since it only partially dissociates in solution, but concentrated acetic acid is corrosive and can attack the skin.
+
+Acetic acid is the second simplest carboxylic acid (after formic acid) and consists of two small functional groups, an acetyl group (sometimes symbolized as Ac) and a hydroxyl group (AcOH); it can also be viewed as a methyl group and a carboxyl group linked. It is an important chemical reagent and industrial chemical, used primarily in the production of cellulose acetate for photographic film, polyvinyl acetate for wood glue, and synthetic fibres and fabrics. In households, diluted acetic acid is often used in descaling agents. In the food industry, acetic acid is controlled by the food additive code E260 as an acidity regulator and as a condiment. As a food additive it is approved for usage in many countries, including Canada,[6] the European Union,[7] the United States,[8] Australia and New Zealand.[9] In biochemistry, the acetyl group, derived from acetic acid, is fundamental to all forms of life. When bound to coenzyme A, it is central to the metabolism of carbohydrates and fats.
+
+The global demand for acetic acid is about 6.5 million metric tons per year (Mt/a), of which approximately 1.5 Mt/a is met by recycling; the remainder is manufactured from petrochemical feedstock.[10] As a chemical reagent, biological sources of acetic acid are of interest, but generally cannot compete economically. Vinegar is mostly dilute acetic acid, often produced by fermentation and subsequent oxidation of ethanol.
+
+Nomenclature
+The trivial name acetic acid is the most commonly used and preferred IUPAC name. The systematic name ethanoic acid, a valid IUPAC name, is constructed according to the substitutive nomenclature.[11] The name acetic acid derives from acetum, the Latin word for vinegar, and is related to the word acid itself.
+
+Glacial acetic acid is a name for water-free (anhydrous) acetic acid. Similar to the German name Eisessig (ice-vinegar), the name comes from the ice-like crystals that form slightly below room temperature at 16.6 °C (61.9 °F) (the presence of 0.1% water lowers its melting point by 0.2 °C).[12]
+
+A common abbreviation for acetic acid is AcOH, where Ac stands for the acetyl group CH
+
+2H. In the context of acid-base reactions, the abbreviation HAc is sometimes used,[14] where Ac in this case is a symbol for acetate (rather than acetyl). Acetate is the ion resulting from loss of H+
+ from acetic acid. The name acetate can also refer to a salt containing this anion, or an ester of acetic acid.[15]
+
+Properties
+
+Acetic acid crystals
+Acidity
+The hydrogen centre in the carboxyl group (-COOH) in carboxylic acids such as acetic acid can separate from the molecule by ionization:
+
+
+Because of this release of the proton (H+), acetic acid has acidic character. Acetic acid is a weak monoprotic acid. In aqueous solution, it has a pKa value of 4.76.[16] Its conjugate base is acetate (CH3COO-). A 1.0 M solution (about the concentration of domestic vinegar) has a pH of 2.4, indicating that merely 0.4% of the acetic acid molecules are dissociated.[17]
+
+Deprotonation equilibrium of acetic acid in water
+
+
+Cyclic dimer of acetic acid; dashed green lines represent hydrogen bonds
+Structure
+In solid acetic acid, the molecules form pairs (dimers), being connected by hydrogen bonds.[18] The dimers can also be detected in the vapour at 120 °C (248 °F). Dimers also occur in the liquid phase in dilute solutions in non-hydrogen-bonding solvents, and a certain extent in pure acetic acid,[19] but are disrupted by hydrogen-bonding solvents. The dissociation enthalpy of the dimer is estimated at 65.0–66.0 kJ/mol, and the dissociation entropy at 154–157 J mol-1 K-1.[20] Other lower carboxylic acids dimerize in a similar fashion.[21]
+
+Solvent properties
+Liquid acetic acid is a hydrophilic (polar) protic solvent, similar to ethanol and water. With a moderate relative static permittivity (dielectric constant) of 6.2, it dissolves not only polar compounds such as inorganic salts and sugars, but also non-polar compounds such as oils and elements such as sulfur and iodine. It readily mixes with other polar and non-polar solvents such as water, chloroform, and hexane. With higher alkanes (starting with octane), acetic acid is not completely miscible, and its miscibility declines with longer n-alkanes.[22] The solvent and miscibility properties of acetic acid make it a useful industrial chemical, for example, as a solvent in the production of dimethyl terephthalate.[10]
+
+Biochemistry
+At physiological pHs, acetic acid is usually fully ionised to acetate. The acetyl group, derived from acetic acid, is fundamental to all forms of life. When bound to coenzyme A, it is central to the metabolism of carbohydrates and fats. Unlike longer-chain carboxylic acids (the fatty acids), acetic acid does not occur in natural triglycerides. However, the artificial triglyceride triacetin (glycerine triacetate) is a common food additive and is found in cosmetics and topical medicines.[23]
+
+Acetic acid is produced and excreted by acetic acid bacteria, notably the Acetobacter genus and Clostridium acetobutylicum. These bacteria are found universally in foodstuffs, water, and soil, and acetic acid is produced naturally as fruits and other foods spoil. Acetic acid is also a component of the vaginal lubrication of humans and other primates, where it appears to serve as a mild antibacterial agent.[24]
+
+Production
+
+Purification and concentration plant for acetic acid in 1884
+Acetic acid is produced industrially both synthetically and by bacterial fermentation. About 75% of acetic acid made for use in the chemical industry is made by the carbonylation of methanol, explained below.[10] The biological route accounts for only about 10% of world production, but it remains important for the production of vinegar because many food purity laws require vinegar used in foods to be of biological origin. As of 2003–2005, total worldwide production of virgin acetic acid[25] was estimated at 5 Mt/a (million tonnes per year), approximately half of which was produced in the United States. European production was approximately 1 Mt/a and declining, while Japanese production was 0.7 Mt/a. Another 1.5 Mt were recycled each year, bringing the total world market to 6.5 Mt/a.[26][27] Since then the global production has increased to 10.7 Mt/a (in 2010), and further; however, a slowing in this increase in production is predicted.[28] The two biggest producers of virgin acetic acid are Celanese and BP Chemicals. Other major producers include Millennium Chemicals, Sterling Chemicals, Samsung, Eastman, and Svensk Etanolkemi.[29]
+
+Methanol carbonylation
+Most acetic acid is produced by methanol carbonylation. In this process, methanol and carbon monoxide react to produce acetic acid according to the equation:
+
+
+The process involves iodomethane as an intermediate, and occurs in three steps. A catalyst, metal carbonyl, is needed for the carbonylation (step 2).[30]
+
+Two related processes for the carbonylation of methanol: the rhodium-catalyzed Monsanto process, and the iridium-catalyzed Cativa process. The latter process is greener and more efficient[31] and has largely supplanted the former process, often in the same production plants. Catalytic amounts of water are used in both processes, but the Cativa process requires less, so the water-gas shift reaction is suppressed, and fewer by-products are formed.
+
+By altering the process conditions, acetic anhydride may also be produced on the same plant using the rhodium catalysts.[32]
+
+Acetaldehyde oxidation
+Prior to the commercialization of the Monsanto process, most acetic acid was produced by oxidation of acetaldehyde. This remains the second-most-important manufacturing method, although it is usually not competitive with the carbonylation of methanol. The acetaldehyde can be produced by hydration of acetylene. This was the dominant technology in the early 1900s.[33]
+
+Light naphtha components are readily oxidized by oxygen or even air to give peroxides, which decompose to produce acetic acid according to the chemical equation, illustrated with butane:
+
+Such oxidations require metal catalyst, such as the naphthenatel salts of manganese, cobalt, and chromium.
+
+The typical reaction is conducted at temperatures and pressures designed to be as hot as possible while still keeping the butane a liquid. Typical reaction conditions are 150 °C (302 °F) and 55 atm.[34] Side-products may also form, including butanone, ethyl acetate, formic acid, and propionic acid. These side-products are also commercially valuable, and the reaction conditions may be altered to produce more of them where needed. However, the separation of acetic acid from these by-products adds to the cost of the process.[35]
+
+Under similar conditions and using similar catalysts as are used for butane oxidation, the oxygen in air to produce acetic acid can oxidize acetaldehyde.[35]
+
+
+Using modern catalysts, this reaction can have an acetic acid yield greater than 95%. The major side-products are ethyl acetate, formic acid, and formaldehyde, all of which have lower boiling points than acetic acid and are readily separated by distillation.[35]
+
+Ethylene oxidation
+Acetaldehyde may be prepared from ethylene via the Wacker process, and then oxidised as above.
+
+In more recent times, chemical company Showa Denko, which opened an ethylene oxidation plant in Oita, Japan, in 1997, commercialised a cheaper single-stage conversion of ethylene to acetic acid.[36] The process is catalyzed by a palladium metal catalyst supported on a heteropoly acid such as silicotungstic acid. Similar process use the same metal catalyst on silicotungstic acid and silica:[37]
+
+It is thought to be competitive with methanol carbonylation for smaller plants (100–250 kt/a), depending on the local price of ethylene. The approach will be based on utilizing a novel selective photocatalytic oxidation technology for the selective oxidation of ethylene and ethane to acetic acid. Unlike traditional oxidation catalysts, the selective oxidation process will use UV light to produce acetic acid at ambient temperatures and pressure.
+
+Oxidative fermentation
+For most of human history, acetic acid bacteria of the genus Acetobacter have made acetic acid, in the form of vinegar. Given sufficient oxygen, these bacteria can produce vinegar from a variety of alcoholic foodstuffs. Commonly used feeds include apple cider, wine, and fermented grain, malt, rice, or potato mashes. The overall chemical reaction facilitated by these bacteria is:
+
+A dilute alcohol solution inoculated with Acetobacter and kept in a warm, airy place will become vinegar over the course of a few months. Industrial vinegar-making methods accelerate this process by improving the supply of oxygen to the bacteria.[38]
+
+The first batches of vinegar produced by fermentation probably followed errors in the winemaking process. If must is fermented at too high a temperature, acetobacter will overwhelm the yeast naturally occurring on the grapes. As the demand for vinegar for culinary, medical, and sanitary purposes increased, vintners quickly learned to use other organic materials to produce vinegar in the hot summer months before the grapes were ripe and ready for processing into wine. This method was slow, however, and not always successful, as the vintners did not understand the process.[39]
+
+One of the first modern commercial processes was the "fast method" or "German method", first practised in Germany in 1823. In this process, fermentation takes place in a tower packed with wood shavings or charcoal. The alcohol-containing feed is trickled into the top of the tower, and fresh air supplied from the bottom by either natural or forced convection. The improved air supply in this process cut the time to prepare vinegar from months to weeks.[40]
+
+Nowadays, most vinegar is made in submerged tank culture, first described in 1949 by Otto Hromatka and Heinrich Ebner.[41] In this method, alcohol is fermented to vinegar in a continuously stirred tank, and oxygen is supplied by bubbling air through the solution. Using modern applications of this method, vinegar of 15% acetic acid can be prepared in only 24 hours in batch process, even 20% in 60-hour fed-batch process.[39]
+
+Anaerobic fermentation
+Species of anaerobic bacteria, including members of the genus Clostridium or Acetobacterium can convert sugars to acetic acid directly without creating ethanol as an intermediate. The overall chemical reaction conducted by these bacteria may be represented as:
+
+These acetogenic bacteria produce acetic acid from one-carbon compounds, including methanol, carbon monoxide, or a mixture of carbon dioxide and hydrogen:
+
+This ability of Clostridium to metabolize sugars directly, or to produce acetic acid from less costly inputs, suggests that these bacteria could produce acetic acid more efficiently than ethanol-oxidizers like Acetobacter. However, Clostridium bacteria are less acid-tolerant than Acetobacter. Even the most acid-tolerant Clostridium strains can produce vinegar in concentrations of only a few per cent, compared to Acetobacter strains that can produce vinegar in concentrations up to 20%. At present, it remains more cost-effective to produce vinegar using Acetobacter, rather than using Clostridium and concentrating it. As a result, although acetogenic bacteria have been known since 1940, their industrial use is confined to a few niche applications.[42]
+
+Uses
+Acetic acid is a chemical reagent for the production of chemical compounds. The largest single use of acetic acid is in the production of vinyl acetate monomer, closely followed by acetic anhydride and ester production. The volume of acetic acid used in vinegar is comparatively small.[10][27]
+
+Vinyl acetate monomer
+The primary use of acetic acid is the production of vinyl acetate monomer (VAM). In 2008, this application was estimated to consume a third of the world's production of acetic acid.[10] The reaction consists of ethylene and acetic acid with oxygen over a palladium catalyst, conducted in the gas phase.[43]
+
+Vinyl acetate can be polymerised to polyvinyl acetate or other polymers, which are components in paints and adhesives.[43]
+
+Ester production
+The major esters of acetic acid are commonly used as solvents for inks, paints and coatings. The esters include ethyl acetate, n-butyl acetate, isobutyl acetate, and propyl acetate. They are typically produced by catalyzed reaction from acetic acid and the corresponding alcohol:
+
+Most acetate esters, however, are produced from acetaldehyde using the Tishchenko reaction. In addition, ether acetates are used as solvents for nitrocellulose, acrylic lacquers, varnish removers, and wood stains. First, glycol monoethers are produced from ethylene oxide or propylene oxide with alcohol, which are then esterified with acetic acid. The three major products are ethylene glycol monoethyl ether acetate (EEA), ethylene glycol monobutyl ether acetate (EBA), and propylene glycol monomethyl ether acetate (PMA, more commonly known as PGMEA in semiconductor manufacturing processes, where it is used as a resist solvent). This application consumes about 15% to 20% of worldwide acetic acid. Ether acetates, for example EEA, have been shown to be harmful to human reproduction.[27]
+
+Acetic anhydride
+The product of the condensation of two molecules of acetic acid is acetic anhydride. The worldwide production of acetic anhydride is a major application, and uses approximately 25% to 30% of the global production of acetic acid. The main process involves dehydration of acetic acid to give ketene at 700–750 °C. Ketene is thereafter reacted with acetic acid to obtain the anhydride:[44]
+
+
+Acetic anhydride is an acetylation agent. As such, its major application is for cellulose acetate, a synthetic textile also used for photographic film. Acetic anhydride is also a reagent for the production of heroin and other compounds.[44]
+
+Use as solvent[edit]
+Glacial acetic acid is an excellent polar protic solvent, as noted above. It is frequently used as a solvent for recrystallization to purify organic compounds. Acetic acid is used as a solvent in the production of terephthalic acid (TPA), the raw material for polyethylene terephthalate (PET). In 2006, about 20% of acetic acid was used for TPA production.[27]
+
+Acetic acid is often used as a solvent for reactions involving carbocations, such as Friedel-Crafts alkylation. For example, one stage in the commercial manufacture of synthetic camphor involves a Wagner-Meerwein rearrangement of camphene to isobornyl acetate; here acetic acid acts both as a solvent and as a nucleophile to trap the rearranged carbocation.[45]
+
+Glacial acetic acid is used in analytical chemistry for the estimation of weakly alkaline substances such as organic amides. Glacial acetic acid is a much weaker base than water, so the amide behaves as a strong base in this medium. It then can be titrated using a solution in glacial acetic acid of a very strong acid, such as perchloric acid.[46]
+
+Medical use
+Main article: Acetic acid (medical use)
+Acetic acid injection into the tumor has been used to treat cancer since the 1800s.[47][48]
+
+Acetic acid is used as part of cervical cancer screening in many areas in the developing world.[49] Acetic acid is applied to the cervix and if an area of white appears after about a minute the test is positive.[49]
+
+It is an effective antiseptic when used as a 1% solution, with broad spectrum of activity against streptococci, staphylococci, pseudomonas, enterococci and others.[50][51][52] It may be an option for skin infections cause by pseudomonas resistant to typical antibiotics.[53]
+
+While diluted acetic acid is used in iontophoresis, no high quality evidence supports this treatment in rotator cuff disease.[54][55]
+
+As a treatment for otitis externa, it is on the World Health Organization's List of Essential Medicines, the most important medications needed in a basic health system.[56]
+
+Foods
+Main article: Vinegar
+Vinegar is typically 4–18% acetic acid by mass. Vinegar is used directly as a condiment, and in the pickling of vegetables and other foods. Table vinegar tends to be more diluted (4% to 8% acetic acid), while commercial food pickling employs solutions that are more concentrated. The proportion of acetic acid used worldwide as vinegar is not as large as commercial uses, but is by far the oldest and best-known application.[57]
+
+Reactions
+Organic chemistry
+Two typical organic reactions of acetic acid
+
+Acetic acid undergoes the typical chemical reactions of a carboxylic acid. Upon treatment with a standard base, it converts to metal acetate and water. With strong bases (e.g., organolithium reagents), it can be doubly deprotonated to give LiCH2CO2Li. Reduction of acetic acid gives ethanol. The OH group is the main site of reaction, as illustrated by the conversion of acetic acid to acetyl chloride. Other substitution derivatives include acetic anhydride; this anhydride is produced by loss of water from two molecules of acetic acid. Esters of acetic acid can likewise be formed via Fischer esterification, and amides can be formed. When heated above 440 °C (824 °F), acetic acid decomposes to produce carbon dioxide and methane, or to produce ketene and water:[58][59][60]
+
+CH3COOH ? CH4 + CO2
+CH3COOH ? CH2CO + H2O
+Reactions with inorganic compounds[edit]
+Acetic acid is mildly corrosive to metals including iron, magnesium, and zinc, forming hydrogen gas and salts called acetates:
+
+Mg + 2 CH3COOH ? (CH3COO)2Mg + H2
+Because aluminium forms a passivating acid-resistant film of aluminium oxide, aluminium tanks are used to transport acetic acid. Metal acetates can also be prepared from acetic acid and an appropriate base, as in the popular "baking soda + vinegar" reaction:
+
+NaHCO3 + CH3COOH ? CH3COONa + CO2 + H2O
+A colour reaction for salts of acetic acid is iron(III) chloride solution, which results in a deeply red colour that disappears after acidification.[61] A more sensitive test uses lanthanum nitrate with iodine and ammonia to give a blue solution.[62] Acetates when heated with arsenic trioxide form cacodyl oxide, which can be detected by its malodorous vapours.[63]
+
+Other derivatives
+Organic or inorganic salts are produced from acetic acid, including:
+
+Sodium acetate, used in the textile industry and as a food preservative (E262).
+Copper(II) acetate, used as a pigment and a fungicide.
+Aluminium acetate and iron(II) acetate—used as mordants for dyes.
+Palladium(II) acetate, used as a catalyst for organic coupling reactions such as the Heck reaction.
+Silver acetate, used as a pesticide.
+Substituted acetic acids produced include:
+
+Chloroacetic acid (monochloroacetic acid, MCA), dichloroacetic acid (considered a by-product), and trichloroacetic acid. MCA is used in the manufacture of indigo dye.
+Bromoacetic acid, which is esterified to produce the reagent ethyl bromoacetate.
+Trifluoroacetic acid, which is a common reagent in organic synthesis.
+Amounts of acetic acid used in these other applications together (apart from TPA) account for another 5–10% of acetic acid use worldwide. These applications are, however, not expected to grow as much as TPA production.[27]
+
+History
+Vinegar was known early in civilization as the natural result of exposure of beer and wine to air, because acetic acid-producing bacteria are present globally. The use of acetic acid in alchemy extends into the 3rd century BC, when the Greek philosopher Theophrastus described how vinegar acted on metals to produce pigments useful in art, including white lead (lead carbonate) and verdigris, a green mixture of copper salts including copper(II) acetate. Ancient Romans boiled soured wine to produce a highly sweet syrup called sapa. Sapa that was produced in lead pots was rich in lead acetate, a sweet substance also called sugar of lead or sugar of Saturn, which contributed to lead poisoning among the Roman aristocracy.[64]
+
+In the 16th-century German alchemist Andreas Libavius described the production of acetone from the dry distillation of lead acetate, ketonic decarboxylation. The presence of water in vinegar has such a profound effect on acetic acid's properties that for centuries chemists believed that glacial acetic acid and the acid found in vinegar were two different substances. French chemist Pierre Adet proved them identical.[64][65]
+
+glass beaker of crystallised acetic acid
+Crystallised acetic acid.
+In 1845 German chemist Hermann Kolbe synthesised acetic acid from inorganic compounds for the first time. This reaction sequence consisted of chlorination of carbon disulfide to carbon tetrachloride, followed by pyrolysis to tetrachloroethylene and aqueous chlorination to trichloroacetic acid, and concluded with electrolytic reduction to acetic acid.[66]
+
+By 1910, most glacial acetic acid was obtained from the pyroligneous liquor, a product of the distillation of wood. The acetic acid was isolated by treatment with milk of lime, and the resulting calcium acetate was then acidified with sulfuric acid to recover acetic acid. At that time, Germany was producing 10,000 tons of glacial acetic acid, around 30% of which was used for the manufacture of indigo dye.[64][67]
+
+Because both methanol and carbon monoxide are commodity raw materials, methanol carbonylation long appeared to be attractive precursors to acetic acid. Henri Dreyfus at British Celanese developed a methanol carbonylation pilot plant as early as 1925.[68] However, a lack of practical materials that could contain the corrosive reaction mixture at the high pressures needed (200 atm or more) discouraged commercialization of these routes. The first commercial methanol carbonylation process, which used a cobalt catalyst, was developed by German chemical company BASF in 1963. In 1968, a rhodium-based catalyst (cis-[Rh(CO)2I2]-) was discovered that could operate efficiently at lower pressure with almost no by-products. US chemical company Monsanto Company built the first plant using this catalyst in 1970, and rhodium-catalyzed methanol carbonylation became the dominant method of acetic acid production (see Monsanto process). In the late 1990s, the chemicals company BP Chemicals commercialised the Cativa catalyst ([Ir(CO)2I2]-), which is promoted by iridium[69] for greater efficiency. This iridium-catalyzed Cativa process is greener and more efficient[31] and has largely supplanted the Monsanto process, often in the same production plants.
+
+Interstellar medium
+Interstellar acetic acid was discovered in 1996 by a team led by David Mehringer[70] using the former Berkeley-Illinois-Maryland Association array at the Hat Creek Radio Observatory and the former Millimeter Array located at the Owens Valley Radio Observatory. It was first detected in the Sagittarius B2 North molecular cloud (also known as the Sgr B2 Large Molecule Heimat source). Acetic acid has the distinction of being the first molecule discovered in the interstellar medium using solely radio interferometers; in all previous ISM molecular discoveries made in the millimetre and centimetre wavelength regimes, single dish radio telescopes were at least partly responsible for the detections.[70]
+
+Health effects and safety
+Concentrated acetic acid is corrosive to skin and must therefore be handled with appropriate care to avoid skin burns, permanent eye damage, and irritation to the mucous membranes.[71][72] These burns or blisters may not appear until hours after exposure.
+
+Prolonged skin contact with glacial acetic acid may result in tissue destruction. Inhalation exposure (eight hours) to acetic acid vapours at 10 ppm can produce some irritation of eyes, nose, and throat; at 100 ppm marked lung irritation and possible damage to lungs, eyes, and skin may result. Vapour concentrations of 1,000 ppm cause marked irritation of eyes, nose and upper respiratory tract and cannot be tolerated. These predictions were based on animal experiments and industrial exposure. Skin sensitization to acetic acid is rare, but has occurred.
+
+It has been reported that, in 12 workers exposed for two or more years to acetic acid airborne average concentration of 51 ppm (estimated), produced symptoms of conjunctive irritation, upper respiratory tract irritation, and hyperkeratotic dermatitis. Exposure to 50 ppm or more is intolerable to most persons and results in intensive lacrimation and irritation of the eyes, nose, and throat, with pharyngeal oedema and chronic bronchitis. Unacclimatised humans experience extreme eye and nasal irritation at concentrations in excess of 25 ppm, and conjunctivitis from concentrations below 10 ppm has been reported. In a study of five workers exposed for seven to 12 years to concentrations of 80 to 200 ppm at peaks, the principal findings were blackening and hyperkeratosis of the skin of the hands, conjunctivitis (but no corneal damage), bronchitis and pharyngitis, and erosion of the exposed teeth (incisors and canines).[73]
+
+The hazards of solutions of acetic acid depend on the concentration. The following table lists the EU classification of acetic acid solutions:[74]
+
+Concentration
+by weight	Molarity	Classification	R-Phrases
+10–25%	1.67–4.16 mol/L	Irritant (Xi)	R36/38
+25–90%	4.16–14.99 mol/L	Corrosive (C)	R34
+>90%	>14.99 mol/L	Corrosive (C) Flammable (F)	R10, R35
+Solutions at more than 25% acetic acid are handled in a fume hood because of the pungent, corrosive vapour. Dilute acetic acid, in the form of vinegar, is practically harmless. However, ingestion of stronger solutions is dangerous to human and animal life. It can cause severe damage to the digestive system, and a potentially lethal change in the acidity of the blood.
+
+Due to incompatibilities, it is recommended to keep acetic acid away from chromic acid, ethylene glycol, nitric acid, perchloric acid, permanganates, peroxides and hydroxyls.[75]
+
+Concentrated acetic acid can be ignited only with difficulty at standard temperature and pressure, but becomes a flammable risk in temperatures greater than 39 °C (102 °F), and can form explosive mixtures with air at higher temperatures (explosive limits: 5.4–16%).
